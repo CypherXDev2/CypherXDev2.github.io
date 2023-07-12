@@ -1350,6 +1350,9 @@ a {
 .cid-tH5MZ78jg2 img,
 .cid-tH5MZ78jg2 .item-img {
   width: 100%;
+  height: 100%;
+  height: 400px;
+  object-fit: cover;
 }
 .cid-tH5MZ78jg2 .item:focus,
 .cid-tH5MZ78jg2 span:focus {
